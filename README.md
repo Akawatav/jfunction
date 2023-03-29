@@ -65,3 +65,8 @@ $.function
 $.number
 ```
 追加関数の数を返す
+```
+portion.integer()
+portion.decimal()
+```
+これは整数部分、小数部分を返す

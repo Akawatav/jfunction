@@ -23,3 +23,12 @@ getRandom(num1,num2)
 division(num1,num2)
 ```
 これは割り算なんですが、整数の余り無しで出力されます(余りを求めるなら%)
+次、
+```
+percent(num1,num2)
+```
+これは単純にnum1のnum2%を出力しますでは次
+```
+log()
+```
+```console.log()```以上。 では次、

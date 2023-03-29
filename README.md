@@ -3,6 +3,8 @@ This jfunction is the code to add the function in javascript
 このjfunctionは、javascriptで関数を追加するコードです
 # jfunctionについて
 関数を色々追加したり、簡単に記述出来るようにしたものです
+### バージョン
+v1.0.0 最初期です
 ## 追加される関数
 ```
 get.byid(name)

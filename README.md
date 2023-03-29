@@ -6,6 +6,7 @@ This jfunction is the code to add the function in javascript
 ### バージョン
 v1.0.0 最初期です
 v1.0.1 少し軽量になりました
+v1.0.2新しい関数を追加しました
 ## 追加される関数
 ```
 get.byid(name)

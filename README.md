@@ -32,3 +32,18 @@ percent(num1,num2)
 log()
 ```
 ```console.log()```以上。 では次、
+```
+query.single()
+query.all()
+```
+は
+```
+document.queryselector()
+document.queryselectorall()
+```
+と同じ では次、
+```
+root.square()
+root.cube()
+```
+これは、平方根、立方根を返す

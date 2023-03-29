@@ -51,3 +51,17 @@ root.square()
 root.cube()
 ```
 これは、平方根、立方根を返す
+```
+$.version
+jfunction.version
+```
+バージョン
+jfunction=$
+```
+$.function
+```
+追加された関数を配列として返す
+```
+$.number
+```
+追加関数の数を返す

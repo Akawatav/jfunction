@@ -32,7 +32,7 @@ const log = log => console.log(log)
 const root = {
     square: num => Math.pow(num,0.5),
     cube: num => Math.pow(num,1/3)
-}
+} 
 const portion = {
     integer: num => Math.trunc(num),
     decimal: num =>{

@@ -4,6 +4,7 @@ This jfunction is the code to add the function in javascript
 # jfunctionについて
 関数を色々追加したり、簡単に記述出来るようにしたものです
 ### バージョン
+v1.0.0 最初期です
 v1.0.1 少し軽量になりました
 ## 追加される関数
 ```

@@ -75,3 +75,7 @@ portion.decimal()
 get.Year
 ```
 などは現在の時間
+```
+wait()
+```
+はミリ秒指定で待つ

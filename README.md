@@ -72,7 +72,7 @@ portion.decimal()
 ```
 これは整数部分、小数部分を返す
 ```
-get.Year
+get.year()
 ```
 などは現在の時間
 ```

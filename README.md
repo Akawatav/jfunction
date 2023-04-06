@@ -17,8 +17,8 @@ get.bytag(name)
 すべて
 ```
 getElementById(name)
-getElementByclassname(name)
-getElementByTagname(name)
+getElementsByclassname(name)
+getElementsByTagname(name)
 ```
 と同じ
 次、

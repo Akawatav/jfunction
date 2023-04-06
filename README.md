@@ -7,16 +7,18 @@ This jfunction is the code to add the function in javascript
 v1.0.0 最初期です
 v1.0.1 少し軽量になりました
 v1.0.2新しい関数を追加しました
-V1.0.3新関数とgetに新しい物が追加されました
+v1.0.3,v1.0.4新関数とgetに新しい物が追加されました
 ## 追加される関数
 ```
 get.byid(name)
 get.byclass(name)
+get.bytag
 ```
-どちらも
+すべて
 ```
 getElementById(name)
 getElementByclassname(name)
+getElementByTagname(name)
 ```
 と同じ
 次、
@@ -79,3 +81,4 @@ get.year()
 wait()
 ```
 はミリ秒指定で待つ
+```pqss()```何もしない

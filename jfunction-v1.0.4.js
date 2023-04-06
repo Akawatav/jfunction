@@ -57,11 +57,11 @@ const jfunction = {
 }
 const $ = jfunction
  const wait = milliseconds => {
- const start = new Date().getTime()
- let end = 0
- while ( (end-start) < milliseconds) {
-     end = new Date().getTime()
-   }
+   const start = new Date().getTime()
+   let end = 0
+   while ( (end-start) < milliseconds) {
+       end = new Date().getTime()
+     }
  }
 const changesgin = num => num * -1
 const Absolute = num => (0>num) ? num * -1 : num

@@ -12,7 +12,7 @@ v1.0.3,v1.0.4新関数とgetに新しい物が追加されました
 ```
 get.byid(name)
 get.byclass(name)
-get.bytag
+get.bytag(name)
 ```
 すべて
 ```

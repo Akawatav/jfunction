@@ -71,6 +71,4 @@ const factorial = {
  double : n => Math.pow(2,n/2) * factorial.none(n/2)
 }
 const parse = str => (str == 'true') ? true : false
-const pass = function(){
-  ;
-}
+const pass = function(){}

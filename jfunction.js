@@ -1,4 +1,4 @@
-/*｜by Akawatav｜jfunction｜v1.0.3｜関数追加するだけ｜*/
+/*｜by Akawatav｜jfunction｜v1.0.4｜関数追加するだけ｜*/
 const getRandom = ( min, max ) => (max > min) ? Math.floor( Math.random() * (max + 1 - min)) + min : NaN
 const division = (number1,number2) => Math.floor(number1 / number2)
 const percent = (num1,num2) => num1 / 100 * num2
@@ -35,7 +35,7 @@ const portion = {
     decimal: num => (num > -1) ? parseFloat('0.' + ('' + num).split('.')[1]) : parseFloat('-0.' + ('' + num).split('.')[1])
 }
 const jfunction = {
-    version:"v1.0.3",
+    version:"v1.0.4",
     function:[
       "jfunction",
       "get",

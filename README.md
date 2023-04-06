@@ -13,12 +13,16 @@ v1.0.3,v1.0.4新関数とgetに新しい物が追加されました
 get.byid(name)
 get.byclass(name)
 get.bytag(name)
+get.query(name)
+get.queryall(name)
 ```
 すべて
 ```
 getElementById(name)
 getElementsByclassname(name)
 getElementsByTagname(name)
+queryselector(name)
+queryselectorall(name)
 ```
 と同じ
 次、

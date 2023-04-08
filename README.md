@@ -5,10 +5,16 @@ This jfunction is the code to add the function in javascript
 関数を色々追加したり、簡単に記述出来るようにしたものです
 ### バージョン
 v1.0.0 最初期です
+
 v1.0.1 少し軽量になりました
+
 v1.0.2新しい関数を追加しました
+
 v1.0.3,v1.0.4新関数とgetに新しい物が追加されました
+
 v1.0.4少し軽量化しました
+
+v1.0.5軽量化&waitにdone(終わったら実行)を追加defineを追加(グローバル定数)
 ## 追加される関数
 ```
 get.byid(name)
@@ -91,3 +97,11 @@ wait()
 parse(bool)
 ```
 は文字列が"true"ならtrueを返し、それ以外ならfalseを返します
+```
+wait(mllsec).done(function(){...})
+```
+待った後に実行されます
+```
+define(name,value)
+```
+はグローバル定数を作成する(定数名で呼び出せる)
